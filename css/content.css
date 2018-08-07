@@ -50,6 +50,11 @@ p.center {
 	text-align: center;
 }
 
+p.contact-success {
+	font-size: 20px;
+	padding-bottom: 20px;
+}
+
 li.box {
 	display: block;
 	position: relative;
