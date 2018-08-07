@@ -1,19 +1,11 @@
 form {
-	max-width: 800px;
+	max-width: 600px;
 	margin: 0 auto;
 	overflow: hidden;
 }
 
 .form-box {
 	display: block;
-}
-
-@media only screen and (min-width: 781px) {
-	.form-box {
-		display: inline-block;
-		float: left;
-		width: 90%;
-	}
 }
 
 .contact-form {
